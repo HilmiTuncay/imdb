@@ -45,6 +45,9 @@ cd imdb
 
 **Not**: Veri seti dosyası (`movies_initial.csv`) boyutu nedeniyle (40.8 MB) GitHub'a yüklenmemiştir.
 
+Veri seti indirme linki:
+https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis
+
 Veri setinizi proje dizinine ekleyin:
 - Dosya adı: `movies_initial.csv`
 - Konum: Proje ana dizini
