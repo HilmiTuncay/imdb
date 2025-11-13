@@ -1,0 +1,71 @@
+================================================================================
+IMDb FİLM VERİ SETİ ANALİZ RAPORU
+================================================================================
+
+1. VERİ SETİ ÖZETİ
+--------------------------------------------------------------------------------
+Toplam Film Sayısı: 46,014
+Toplam Sütun Sayısı: 25
+Veri Seti Boyutu: 81.54 MB
+
+2. IMDb PUAN İSTATİSTİKLERİ
+--------------------------------------------------------------------------------
+Ortalama Puan: 6.38
+Medyan Puan: 6.60
+Standart Sapma: 1.18
+Minimum Puan: 1.10
+Maksimum Puan: 9.60
+
+3. FİLM SÜRESİ İSTATİSTİKLERİ
+--------------------------------------------------------------------------------
+Ortalama Süre: 97.09 dakika
+Medyan Süre: 95.00 dakika
+En Kısa Film: 1 dakika
+En Uzun Film: 910 dakika
+
+4. TÜR ANALİZİ - En Popüler 10 Tür
+--------------------------------------------------------------------------------
+1. Drama: 11,381 film
+2. Comedy: 10,963 film
+3. Action: 5,284 film
+4. Documentary: 4,187 film
+5. Crime: 2,708 film
+6. Horror: 2,386 film
+7. Animation: 1,941 film
+8. Adventure: 1,827 film
+9. Biography: 1,232 film
+10. Short: 664 film
+
+5. ÖNEMLİ BULGULAR VE TRENDLER
+--------------------------------------------------------------------------------
+• IMDb ve Metacritic puanları arasında 0.71 korelasyon bulundu
+• Puan ve film süresi arasında 0.13 korelasyon bulundu
+• Puan ve oy sayısı arasında 0.15 korelasyon bulundu
+• 2010+ filmlerin ort. puanı: 6.26
+• 1990-2009 filmlerin ort. puanı: 6.30
+
+6. EN YÜKSEK PUANLI 10 FİLM
+--------------------------------------------------------------------------------
+1. Band of Brothers (2001) - Puan: 9.6 - Tür: Action
+2. Dances Sacred and Profane (1985) - Puan: 9.5 - Tür: Documentary
+3. The Chaos Class (1975) - Puan: 9.5 - Tür: Comedy
+4. Planet Earth (2006) - Puan: 9.5 - Tür: Documentary
+5. The Third Annual 'On Cinema' Oscar Special (2015) - Puan: 9.5 - Tür: Comedy
+6. The Civil War (1990) - Puan: 9.4 - Tür: Documentary
+7. The Civil War (1990) - Puan: 9.4 - Tür: Documentary
+8. Drag Becomes Him (2015) - Puan: 9.4 - Tür: Documentary
+9. A Brave Heart: The Lizzie Velasquez Story (2015) - Puan: 9.4 - Tür: Documentary
+10. Thani Oruvan (2015) - Puan: 9.4 - Tür: Action
+
+7. SONUÇ VE ÖNERİLER
+--------------------------------------------------------------------------------
+• Film başarısını etkileyen en önemli faktörler arasında tür, süre ve
+  yapım yılı bulunmaktadır.
+• Yüksek puanlı filmler genellikle belirli türlerde yoğunlaşmaktadır.
+• Metacritic ve IMDb puanları arasında güçlü bir korelasyon vardır.
+• Oy sayısı ve puan arasındaki pozitif korelasyon, popüler filmlerin
+  genellikle daha yüksek puan aldığını göstermektedir.
+
+================================================================================
+Rapor Tarihi: 2025-11-14 01:15:15
+================================================================================
